@@ -1,0 +1,5 @@
+{
+    "require": {
+        "thibaud-dauce/mattermost-php": "^1.2"
+    }
+}
