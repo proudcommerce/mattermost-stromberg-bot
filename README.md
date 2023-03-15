@@ -1,5 +1,3 @@
-# Stromberg des Tages
+# Mattermost Stromberg-Bot
 
-Script zur täglichen Teamaufheiterung. ;-)
-
-Stromberg Zufallszitat von https://www.stromberg-api.de wird an Mattermost Channel gesendet.
+Stromberg Zufallszitat von https://www.stromberg-api.de per Mattermost
